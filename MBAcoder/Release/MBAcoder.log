@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+  Decoder.cpp
+Decoder.cpp(83): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+Decoder.cpp(119): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Decoder.cpp(125): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Decoder.cpp(129): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Decoder.cpp(227): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+Decoder.cpp(263): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Decoder.cpp(269): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Decoder.cpp(273): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Decoder.cpp(300): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+Decoder.cpp(301): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+Decoder.cpp(302): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  Encoder.cpp
+Encoder.cpp(79): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+Encoder.cpp(154): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+Encoder.cpp(301): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Encoder.cpp(311): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Encoder.cpp(315): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+Encoder.cpp(315): warning C4552: '<<': operator has no effect; expected operator with side-effect
+Encoder.cpp(463): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Encoder.cpp(473): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+Encoder.cpp(477): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+Encoder.cpp(477): warning C4552: '<<': operator has no effect; expected operator with side-effect
+  MBAcoder.cpp
+  Generating code
+c:\users\arekl\documents\visual studio 2015\projects\mbacoder\mbacoder\encoder.cpp(122): warning C4172: returning address of local variable or temporary: c
+c:\users\arekl\documents\visual studio 2015\projects\mbacoder\mbacoder\encoder.cpp(80): warning C4172: returning address of local variable or temporary: p
+c:\users\arekl\documents\visual studio 2015\projects\mbacoder\mbacoder\encoder.cpp(73): warning C4172: returning address of local variable or temporary: p
+  321 of 323 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    201 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MBAcoder.vcxproj -> C:\Users\Arekl\documents\visual studio 2015\Projects\MBAcoder\Release\MBAcoder.exe

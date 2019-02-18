@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\arekl\documents\visual studio 2015\projects\mbacoder\mbacoder\</FILEPATH>
+      <FILENAME>decoder.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>6288</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  mutual inclusion over &amp;&amp; is always zero.  Did you intend to use || instead?</DESCRIPTION>
+    <FUNCTION>Decoder::{ctor}</FUNCTION>
+    <DECORATED>??0Decoder@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH />
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\arekl\documents\visual studio 2015\projects\mbacoder\mbacoder\</FILEPATH>
+      <FILENAME>decoder.cpp</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>33</COLUMN>
+    </SFA>
+    <DEFECTCODE>6288</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  mutual inclusion over &amp;&amp; is always zero.  Did you intend to use || instead?</DESCRIPTION>
+    <FUNCTION>Decoder::{ctor}</FUNCTION>
+    <DECORATED>??0Decoder@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH />
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\arekl\documents\visual studio 2015\projects\mbacoder\mbacoder\</FILEPATH>
+      <FILENAME>decoder.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>33</COLUMN>
+    </SFA>
+    <DEFECTCODE>6288</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  mutual inclusion over &amp;&amp; is always zero.  Did you intend to use || instead?</DESCRIPTION>
+    <FUNCTION>Decoder::{ctor}</FUNCTION>
+    <DECORATED>??0Decoder@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH />
+  </DEFECT>
+</DEFECTS>

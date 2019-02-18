@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\arekl\documents\visual studio 2015\projects\mbacoder\mbacoder\</FILEPATH>
+      <FILENAME>encoder.cpp</FILENAME>
+      <LINE>184</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>6336</DEFECTCODE>
+    <DESCRIPTION>Arithmetic operator has precedence over question operator, use parentheses to clarify intent.</DESCRIPTION>
+    <FUNCTION>Encoder::kodujKolor</FUNCTION>
+    <DECORATED>?kodujKolor@Encoder@@QAEXXZ</DECORATED>
+    <FUNCLINE>123</FUNCLINE>
+    <PATH />
+  </DEFECT>
+</DEFECTS>
