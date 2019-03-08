@@ -253,6 +253,9 @@ wartość | RGB
 ## Screenshots
 
 <img width="300" alt="image_1" src="/readme-images/1.png"> <img width="300" alt="image_1k" src="/readme-images/1k.png"> <img width="300" alt="image_1s" src="/readme-images/1s.png">
+
 <img width="300" alt="image_2" src="/readme-images/2.png"> <img width="300" alt="image_2k" src="/readme-images/2k.png"> <img width="300" alt="image_2s" src="/readme-images/2s.png">
+
 <img width="300" alt="image_3" src="/readme-images/3.png"> <img width="300" alt="image_3k" src="/readme-images/3k.png"> <img width="300" alt="image_3s" src="/readme-images/3s.png">
+
 <img width="300" alt="image_4" src="/readme-images/4.png"> <img width="300" alt="image_4k" src="/readme-images/4k.png"> <img width="300" alt="image_4s" src="/readme-images/4s.png">
