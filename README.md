@@ -13,6 +13,7 @@ Student's project. An application that uses its own format to save graphic files
 MBA is an image compression format. It uses Rice's compression algorithm. It supports two work modes:
 * 32-degree gray scale
 * 32 colors
+
 One pixel of the image uses 5 data bits. The format saves the lines of the image from the bottom up, just like it was done for files with the extension .bmp. The MBA format files have the .mba extension.
 
 #### File header:
@@ -134,6 +135,7 @@ Projekt studencki. Aplikacja wykorzystująca własny format do zapisów plików 
 MBA jest to format kompresji obrazu. Zastosowano w nim algorytm kompresji Rice’a. Obsługuje dwa tryby pracy:
 * 32-stopniowa skala szarości
 * 32 kolory
+
 Jeden pixel obrazu wykorzystuje 5 bitów danych. Format zapisuje linie obrazu od dołu do góry, podobnie jak zostało to zrealizowane w przypadku plików z rozszerzeniem .bmp. Pliki formatu MBA posiadają rozszerzenie .mba.
 
 #### Nagłówek pliku:
